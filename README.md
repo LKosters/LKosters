@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LKosters
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React-Native
 - 📫 How to reach me info@laurenskosters.com
 
 <!---
