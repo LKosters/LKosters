@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LKosters
 - 👀 I’m interested in Full Stack Development
-- 📫 How to reach me info@laurenskosters.com
+- 📫 How to reach me info@laurenskosters.nl
 
 <!---
 LKosters/LKosters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
