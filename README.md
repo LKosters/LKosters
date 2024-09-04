@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @LKosters
+- 👨‍💻 Junior Developer at no.dots
 - 👀 I’m interested in Full Stack Development
 - 📫 How to reach me info@laurenskosters.nl
 
